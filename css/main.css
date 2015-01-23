@@ -2,12 +2,24 @@
     background-color: #c245b8;
  }
 
-  h1 {
+  h1, h2 {
     font-weight: normal;
     font-size: 5rem;
     font-style: italic;
     font-family: 'Indie Flower', cursive;
+    line-height: 1.5;
   }
 
- ol {
+  ol {
    list-style-type: none;
+   padding: 0;
+   line-height: 5;
+ }
+
+ li {
+   font-weight: bold;
+
+ }
+
+ .stego {
+   color

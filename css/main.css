@@ -1,3 +1,12 @@
- html {
-   background-color: #c245b8;
+  html {
+    background-color: #c245b8;
+ }
+
+  h1 {
+    font-weight: normal; /* normal, bold */
+    font-size: 5rem;
+    font-style: italic; /* normal, italic */
+    text-decoration: underline; /* underline, line-through */
+    font-family: "Comic Sans MS", sans-serif;
+    
   }
